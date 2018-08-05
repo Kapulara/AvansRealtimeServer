@@ -57,8 +57,8 @@ Edit file `AvansRealtimeServer/.env`:
 # Avans
 # Register here for Consumer key / secret => https://publicapi.avans.nl/newconsumer/
 - CONSUMER_KEY=
-+ CONSUMER_KEY=<received key>
 - CONSUMER_SECRET=
++ CONSUMER_KEY=<received key>
 + CONSUMER_SECRET=<received secret>
 
 ...
