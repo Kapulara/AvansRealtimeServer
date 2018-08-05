@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "types": [
+      "reflect-metadata",
+      "node",
+      "mocha",
+      "chai",
+      "elasticsearch"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "declaration": false,
+    "outDir": "dist/"
+  },
+  "include": [
+    "src/**/*",
+    "node_modules/typescript/lib/lib.webworker.d.ts",
+    "node_modules/typescript/lib/lib.webworker.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

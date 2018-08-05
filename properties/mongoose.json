@@ -1,0 +1,14 @@
+{
+  "test": {
+    "host": "localhost",
+    "name": "avans-realtime-test"
+  },
+  "development": {
+    "host": "localhost",
+    "name": "avans-realtime-dev"
+  },
+  "production": {
+    "host": "localhost",
+    "name": "avans-realtime-prod"
+  }
+}
